@@ -1,0 +1,26 @@
+node_modules/
+dist/
+coverage/
+
+.env*
+!.env.example
+
+*.log
+.DS_Store
+
+# Android / Gradle
+*.iml
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# IDE
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
