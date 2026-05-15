@@ -28,9 +28,13 @@ Village fairs can be crowded, fast-moving, and difficult for visitors to navigat
 | --- | --- |
 | ![Home screen with welcome header and feature shortcuts](docs/screenshots/home-preview.svg) | ![Schedule screen with event cards](docs/screenshots/schedule-preview.svg) |
 
-| Lost & Found | Stories |
+| Safety Map | Lost & Found |
 | --- | --- |
-| ![Lost and found screen with filters and item cards](docs/screenshots/lost-found-preview.svg) | ![Cultural story screen with village guardian story](docs/screenshots/stories-preview.svg) |
+| ![Safety map screen with medical camp and parking markers](docs/screenshots/safety-map-preview.svg) | ![Lost and found screen with filters and item cards](docs/screenshots/lost-found-preview.svg) |
+
+| Stories |
+| --- |
+| ![Cultural story screen with village guardian story](docs/screenshots/stories-preview.svg) |
 
 ## Web Setup
 

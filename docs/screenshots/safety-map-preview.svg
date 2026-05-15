@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="402" height="680" viewBox="0 0 402 680" role="img" aria-labelledby="title desc">
+  <title id="title">Jatre Namma Pride safety map screen</title>
+  <desc id="desc">Safety map screen showing medical camp, information, and parking markers with a get directions action card.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="5" cy="5" r="1.4" fill="#d32f2f" opacity="0.08"/>
+      <circle cx="17" cy="17" r="1.4" fill="#ffd600" opacity="0.10"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="402" height="680" fill="#fff9f0"/>
+  <rect x="0" y="0" width="402" height="68" fill="#ffffff"/>
+  <circle cx="34" cy="33" r="20" fill="#f8fafc"/>
+  <path d="M37 26 L30 33 L37 40" fill="none" stroke="#ef4b2a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="67" y="40" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="900" fill="#111217">Safety Map</text>
+
+  <rect x="0" y="68" width="402" height="525" fill="#e6f5ff"/>
+  <rect x="0" y="68" width="402" height="525" fill="url(#dots)"/>
+
+  <g filter="url(#shadow)">
+    <circle cx="153" cy="209" r="20" fill="#ffffff"/>
+    <circle cx="153" cy="209" r="16" fill="#d93938"/>
+    <path d="M153 201 V217 M145 209 H161" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <circle cx="252" cy="345" r="14" fill="#ffffff"/>
+    <circle cx="252" cy="345" r="11" fill="#16b84e"/>
+    <rect x="248" y="340" width="8" height="9" rx="1.5" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <circle cx="252" cy="337" r="1.2" fill="#ffffff"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <circle cx="279" cy="398" r="20" fill="#ffffff"/>
+    <circle cx="279" cy="398" r="16" fill="#2563eb"/>
+    <text x="274" y="405" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="900" fill="#ffffff">P</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="21" y="406" width="360" height="157" rx="30" fill="#ffffff"/>
+    <rect x="49" y="435" width="58" height="58" rx="22" fill="#fff1f2"/>
+    <rect x="68" y="458" width="24" height="19" rx="3" fill="#ffffff" stroke="#ef4b2a" stroke-width="2"/>
+    <path d="M80 452 V467 M73 460 H87" stroke="#2563eb" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="70" cy="481" r="4" fill="#4b5563"/>
+    <circle cx="91" cy="481" r="4" fill="#4b5563"/>
+    <rect x="63" y="467" width="37" height="12" rx="3" fill="#f87171"/>
+    <text x="128" y="454" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#3a3a3f">Medical Camp B</text>
+    <text x="128" y="475" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="900" letter-spacing="1.3" fill="#9aa4b2">MAIN ARCHWAY • OPEN 24/7</text>
+    <rect x="128" y="491" width="222" height="43" rx="13" fill="#ff2938"/>
+    <text x="191" y="517" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="900" fill="#ffffff">Get Directions</text>
+    <path d="M278 510 H285 V503 M285 503 L276 512" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <rect x="0" y="612" width="402" height="68" fill="#ffffff"/>
+  <rect x="59" y="632" width="12" height="14" rx="2" fill="none" stroke="#d7dde7" stroke-width="2"/>
+  <path d="M56 637 H74 M60 629 V634 M70 629 V634" stroke="#d7dde7" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="156" cy="639" r="20" fill="#fff4e8"/>
+  <path d="M148 632 L156 628 L164 632 V648 L156 644 L148 648 Z" fill="none" stroke="#ef4b2a" stroke-width="2"/>
+  <circle cx="244" cy="639" r="7" fill="none" stroke="#d7dde7" stroke-width="2"/>
+  <path d="M249 644 L254 649" stroke="#d7dde7" stroke-width="2" stroke-linecap="round"/>
+  <path d="M327 632 H335 C338 632 340 634 340 637 V650 H332 C329 650 327 648 327 645 Z M340 637 C340 634 342 632 345 632 H352 V645 C352 648 350 650 347 650 H340 Z" fill="none" stroke="#d7dde7" stroke-width="2"/>
+</svg>
