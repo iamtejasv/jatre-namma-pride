@@ -24,7 +24,13 @@ Village fairs can be crowded, fast-moving, and difficult for visitors to navigat
 
 ## Preview
 
-![Jatre Namma Pride web preview](docs/screenshots/web-preview.svg)
+| Home | Schedule |
+| --- | --- |
+| ![Home screen with welcome header and feature shortcuts](docs/screenshots/home-preview.svg) | ![Schedule screen with event cards](docs/screenshots/schedule-preview.svg) |
+
+| Lost & Found | Stories |
+| --- | --- |
+| ![Lost and found screen with filters and item cards](docs/screenshots/lost-found-preview.svg) | ![Cultural story screen with village guardian story](docs/screenshots/stories-preview.svg) |
 
 ## Web Setup
 

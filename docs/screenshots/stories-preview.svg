@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="402" height="680" viewBox="0 0 402 680" role="img" aria-labelledby="title desc">
+  <title id="title">Jatre Namma Pride stories screen</title>
+  <desc id="desc">Cultural story screen showing a temple illustration and the village guardian story card.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd600"/>
+      <stop offset="0.55" stop-color="#ff9800"/>
+      <stop offset="1" stop-color="#ef4b2a"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff9f0"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="402" height="680" fill="#fff9f0"/>
+  <rect x="0" y="0" width="402" height="229" fill="url(#sky)"/>
+  <rect x="0" y="135" width="402" height="94" fill="url(#fade)"/>
+  <circle cx="34" cy="34" r="20" fill="#fffaf1" filter="url(#shadow)"/>
+  <path d="M37 27 L30 34 L37 41" fill="none" stroke="#ef4b2a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(154 59)">
+    <path d="M45 0 L54 24 H36 Z" fill="#ffd166"/>
+    <rect x="31" y="21" width="28" height="8" rx="4" fill="#5b527d"/>
+    <path d="M16 102 H74 L69 49 C67 32 56 24 45 24 C34 24 23 32 21 49 Z" fill="#f4a62a"/>
+    <path d="M26 102 H64 V59 C64 47 55 38 45 38 C35 38 26 47 26 59 Z" fill="#ffbd45"/>
+    <rect x="33" y="78" width="24" height="24" rx="3" fill="#7a5c83"/>
+    <path d="M31 70 H59" stroke="#5b527d" stroke-width="6" stroke-linecap="round"/>
+    <path d="M25 83 H65" stroke="#5b527d" stroke-width="5" stroke-linecap="round"/>
+    <path d="M17 94 H73" stroke="#5b527d" stroke-width="5" stroke-linecap="round"/>
+    <path d="M10 106 H80" stroke="#5b527d" stroke-width="5" stroke-linecap="round"/>
+    <rect x="12" y="61" width="8" height="36" rx="4" fill="#5b527d"/>
+    <rect x="70" y="61" width="8" height="36" rx="4" fill="#5b527d"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="30" y="195" width="344" height="455" rx="30" fill="#ffffff"/>
+  </g>
+  <text x="58" y="235" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="900" letter-spacing="7" fill="#ef4b2a">LEGEND OF JATRE</text>
+  <text x="58" y="280" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" fill="#24272d">The Village</text>
+  <text x="58" y="313" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" fill="#24272d">Guardian</text>
+  <text x="58" y="357" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#6b7280">Centuries ago, a wandering saint</text>
+  <text x="58" y="383" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#6b7280">arrived in our village during a severe</text>
+  <text x="58" y="409" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#6b7280">drought. With his divine staff, he</text>
+  <text x="58" y="435" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#6b7280">struck the earth, and an eternal spring</text>
+  <text x="58" y="461" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#6b7280">gushed forth, saving the crops and the</text>
+  <text x="58" y="487" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#6b7280">people.</text>
+  <text x="58" y="535" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#9aa4b2">Every year since, we celebrate this 'Jatre'</text>
+  <text x="58" y="558" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#9aa4b2">to honor the guardian who protected our</text>
+  <text x="58" y="581" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#9aa4b2">ancestors. The chariot procession</text>
+  <text x="58" y="604" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#9aa4b2">symbolizes the journey of the spirit.</text>
+
+  <rect x="0" y="612" width="402" height="68" fill="#ffffff"/>
+  <rect x="59" y="632" width="12" height="14" rx="2" fill="none" stroke="#d7dde7" stroke-width="2"/>
+  <path d="M56 637 H74 M60 629 V634 M70 629 V634" stroke="#d7dde7" stroke-width="2" stroke-linecap="round"/>
+  <path d="M148 632 L155 629 L162 632 V648 L155 645 L148 648 Z" fill="none" stroke="#d7dde7" stroke-width="2"/>
+  <circle cx="244" cy="639" r="7" fill="none" stroke="#d7dde7" stroke-width="2"/>
+  <path d="M249 644 L254 649" stroke="#d7dde7" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="336" cy="640" r="20" fill="#fff4e8"/>
+  <path d="M323 632 H331 C334 632 336 634 336 637 V650 H328 C325 650 323 648 323 645 Z M336 637 C336 634 338 632 341 632 H348 V645 C348 648 346 650 343 650 H336 Z" fill="none" stroke="#ef4b2a" stroke-width="2"/>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="402" height="680" viewBox="0 0 402 680" role="img" aria-labelledby="title desc">
+  <title id="title">Jatre Namma Pride home screen</title>
+  <desc id="desc">Home screen with a welcome header, search bar, live chariot procession card, and shortcuts for schedule, safety map, lost and found, and stories.</desc>
+  <defs>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d9282f"/>
+      <stop offset="1" stop-color="#f04a22"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="402" height="680" fill="#fff9f0"/>
+  <path d="M0 0 H402 V75 C402 101 381 118 354 118 H48 C21 118 0 101 0 75 Z" fill="url(#hero)"/>
+  <text x="21" y="54" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="800" letter-spacing="2" fill="#ffe5df">WELCOME TO THE JATRE</text>
+  <text x="21" y="88" font-family="Inter, Arial, sans-serif" font-size="29" font-weight="900" fill="#ffffff">Namaste!</text>
+  <circle cx="364" cy="62" r="18" fill="#ffffff" opacity="0.22"/>
+  <text x="357" y="68" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#ffffff">A</text>
+
+  <rect x="21" y="110" width="360" height="40" rx="14" fill="#ffffff" filter="url(#shadow)"/>
+  <circle cx="44" cy="127" r="6" fill="none" stroke="#cbd5e1" stroke-width="1.5"/>
+  <path d="M49 132 L54 137" stroke="#cbd5e1" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="63" y="131" font-family="Inter, Arial, sans-serif" font-size="14" fill="#8b95a5">Search lost items...</text>
+
+  <rect x="21" y="181" width="360" height="134" rx="30" fill="#ffffff" filter="url(#shadow)"/>
+  <circle cx="49" cy="209" r="4" fill="none" stroke="#9aa4b2" stroke-width="1.3"/>
+  <text x="60" y="213" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="800" fill="#9aa4b2">ENDS IN 42M</text>
+  <path d="M295 181 H381 V207 H316 C304 207 295 198 295 186 Z" fill="#ec8390"/>
+  <circle cx="313" cy="192" r="2.5" fill="#ffffff"/>
+  <text x="322" y="196" font-family="Inter, Arial, sans-serif" font-size="9" font-weight="900" fill="#ffffff">LIVE NOW</text>
+  <text x="43" y="251" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="900" fill="#24272d">Grand Chariot Procession</text>
+  <rect x="43" y="273" width="156" height="22" rx="11" fill="#f8fafc"/>
+  <circle cx="60" cy="284" r="4" fill="none" stroke="#ef4b2a" stroke-width="1.5"/>
+  <circle cx="60" cy="284" r="1.2" fill="#ef4b2a"/>
+  <text x="72" y="288" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#7a8494">Main Temple Grounds</text>
+  <path d="M317 292 H366 L358 264 H350 L350 252 H334 L334 264 H325 Z" fill="#fff6e9"/>
+
+  <g filter="url(#shadow)">
+    <rect x="21" y="346" width="174" height="105" rx="27" fill="#ffffff" stroke="#ffe0b3"/>
+    <rect x="39" y="363" width="43" height="43" rx="14" fill="#fff5eb"/>
+    <rect x="56" y="377" width="13" height="15" rx="2" fill="none" stroke="#ef4b2a" stroke-width="2"/>
+    <path d="M53 382 H72 M57 373 V379 M68 373 V379" stroke="#ef4b2a" stroke-width="2" stroke-linecap="round"/>
+    <text x="39" y="427" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="900" letter-spacing="1.5" fill="#24272d">SCHEDULE</text>
+    <rect x="21" y="448" width="174" height="4" rx="2" fill="#ffd600"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="208" y="346" width="173" height="105" rx="27" fill="#ffffff" stroke="#dbeafe"/>
+    <rect x="227" y="363" width="43" height="43" rx="14" fill="#eff6ff"/>
+    <path d="M241 378 L249 374 L257 378 V393 L249 389 L241 393 Z" fill="none" stroke="#2563eb" stroke-width="2" stroke-linejoin="round"/>
+    <text x="227" y="427" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="900" letter-spacing="1.5" fill="#24272d">SAFETY MAP</text>
+    <rect x="208" y="448" width="173" height="4" rx="2" fill="#2b7bff"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="21" y="468" width="174" height="105" rx="27" fill="#ffffff" stroke="#ffe0b3"/>
+    <rect x="39" y="486" width="43" height="43" rx="14" fill="#fff9df"/>
+    <circle cx="60" cy="506" r="7" fill="none" stroke="#e6a100" stroke-width="2"/>
+    <path d="M66 512 L72 518" stroke="#e6a100" stroke-width="2" stroke-linecap="round"/>
+    <text x="39" y="550" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="900" letter-spacing="1.5" fill="#24272d">LOST &amp; FOUND</text>
+    <rect x="21" y="570" width="174" height="4" rx="2" fill="#f6b400"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="208" y="468" width="173" height="105" rx="27" fill="#ffffff" stroke="#f3d8ff"/>
+    <rect x="227" y="486" width="43" height="43" rx="14" fill="#fbf0ff"/>
+    <path d="M241 501 H249 C252 501 254 503 254 506 V519 H246 C243 519 241 517 241 514 Z M254 506 C254 503 256 501 259 501 H267 V514 C267 517 265 519 262 519 H254 Z" fill="none" stroke="#b62dff" stroke-width="2"/>
+    <text x="227" y="550" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="900" letter-spacing="1.5" fill="#24272d">STORIES</text>
+    <rect x="208" y="570" width="173" height="4" rx="2" fill="#c13cff"/>
+  </g>
+  <rect x="0" y="612" width="402" height="68" fill="#ffffff"/>
+  <circle cx="65" cy="640" r="20" fill="#fff4e8"/>
+  <rect x="59" y="633" width="12" height="14" rx="2" fill="none" stroke="#ef4b2a" stroke-width="2"/>
+  <path d="M56 638 H74 M60 630 V635 M70 630 V635" stroke="#ef4b2a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M151 632 L158 629 L165 632 V648 L158 645 L151 648 Z" fill="none" stroke="#d7dde7" stroke-width="2"/>
+  <circle cx="244" cy="639" r="7" fill="none" stroke="#d7dde7" stroke-width="2"/>
+  <path d="M249 644 L254 649" stroke="#d7dde7" stroke-width="2" stroke-linecap="round"/>
+  <path d="M327 632 H335 C338 632 340 634 340 637 V650 H332 C329 650 327 648 327 645 Z M340 637 C340 634 342 632 345 632 H352 V645 C352 648 350 650 347 650 H340 Z" fill="none" stroke="#d7dde7" stroke-width="2"/>
+</svg>
