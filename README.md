@@ -2,6 +2,10 @@
 
 Jatre Namma Pride is a digital companion for village fair visitors. It combines a polished web preview with a native Android app built for event schedules, safety navigation, cultural stories, and lost-and-found reporting.
 
+## Live Demo
+
+Try the deployed web preview: [jatre-namma-pride.vercel.app](https://jatre-namma-pride.vercel.app)
+
 ## Problem Statement
 
 Village fairs can be crowded, fast-moving, and difficult for visitors to navigate. People need one place to check event timings, find safety points, report lost belongings, and learn the cultural story behind the celebration. This project solves that with a visitor-friendly digital guide for local jatre organizers and attendees.
